@@ -6,7 +6,7 @@ function numberMatchingCheck(n1, n2, n3) {
         return 40;
     }
     else {
-        return 20
+        return 20;
     }
 }
 
