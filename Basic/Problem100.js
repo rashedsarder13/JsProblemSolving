@@ -15,5 +15,3 @@ function rearrangement_characters(str1, str2) {
 
     return result;
 }
-
-console.log(rearrangement_characters("xyz", "zyx"));
