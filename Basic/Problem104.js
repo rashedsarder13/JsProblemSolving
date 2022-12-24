@@ -1,4 +1,4 @@
-unction different_values(ara, n) {
+function different_values(ara, n) {
     var max_val = -1;
     for (var i = 0; i < ara.length; i++) {
         for (var j = i + 1; j < ara.length; j++) {
